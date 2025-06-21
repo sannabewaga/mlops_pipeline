@@ -1,0 +1,10 @@
+dvc
+dvc-s3
+scikit-learn
+ipykernel
+pandas
+matplotlib
+seaborn
+numpy
+wordcloud
+nltk
